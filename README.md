@@ -2,7 +2,7 @@
 
 This repo tracks the key layout I use for my [ergodox-ez](https://ergodox-ez.com/). It aims to provide a seamless experience between MacOS and Linux based OS's by keeping the differences at a minimum and the switch between both as easy as possible.
 
-Currently I use [oryx](https://ergodox-ez.com/pages/oryx) to manually configure the layout, which I found to be enough for my current needs. Due to this, you may find the `keymap.c` file weirdly formatted, as it's just an export obtained from oryx.
+Currently I use [oryx](https://ergodox-ez.com/pages/oryx) to manually configure the layout, which I found to be enough for my current needs. Due to this, you may find the `keymap.c` file weirdly formatted, as it's just an export obtained from [my oryx's configurator](https://configure.ergodox-ez.com/ergodox-ez/layouts/BND0A/latest/0).
 
 ## Layers
 
