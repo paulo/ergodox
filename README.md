@@ -6,7 +6,7 @@ Currently I use [oryx](https://ergodox-ez.com/pages/oryx) to manually configure 
 
 ## Layers
 
-I'm a big fan of sitting on the couch with my laptop, so I want the overhead between using the ergodox and using the laptop keyboard to be as minimal as possible. Too much overhead on these kind of things takes away attention from the more important things, such as actual work. Therefore, my base layouts are pretty much emulating the layout I'm able to have on the laptop.
+I'm a big fan of sitting on the couch with my laptop, so I want the overhead of switching between using the ergodox and using the laptop keyboard to be as minimal as possible. Too much overhead on these kind of things takes away attention from the more important things, such as actual work. Therefore, my base layouts are pretty much emulating the layout I'm able to have on the laptop.
 
 ### 1. MacOS
 
