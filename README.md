@@ -2,7 +2,7 @@
 
 This repo tracks the key layout I use for my [ergodox-ez](https://ergodox-ez.com/). It aims to provide a seamless experience between MacOS and Linux based OS's by keeping the differences at a minimum and the switch between both as easy as possible.
 
-Currently I use [oryx](https://ergodox-ez.com/pages/oryx) to manually configure the layout, which I found to be enough for my current needs. Due to this, you may find the `keymap.c` file weirdly formatted, as it's just an export obtained from [my oryx's configurator](https://configure.ergodox-ez.com/ergodox-ez/layouts/BND0A/latest/0).
+Currently I use [oryx](https://ergodox-ez.com/pages/oryx) to manually configure the layout, which I found to be enough for my current needs. Due to this, you may find the `keymap.c` file weirdly formatted, as it's just an export obtained from [my oryx's configurator](https://configure.ergodox-ez.com/ergodox-ez/layouts/xbJb3/latest/0).
 
 ## Layers
 
@@ -18,7 +18,7 @@ The main difference between this layout and the one you can find on any macbook 
 
 ![linux](img/linux_layer.png)
 
-Compared to the MacOS layer, the only difference is that `Cmd` has been replaced by `Alt` and `Option` has been replaced by `Meta`. I don't really consider them proper substitutes and I'm working on a better option for this.
+Compared to the MacOS layer, the only differences are that `Cmd` has been replaced by `Ctrl`, `Option` has been replaced by `Alt` and the left commodity `Ctrl` has been replaced by a meta key. This is because `Ctrl` in Linux has roughly the same functionality as `Cmd` does in MacOS. I don't really consider them proper substitutes and I'm working on a better option for this.
 
 ### 3. Code
 
